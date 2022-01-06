@@ -3,7 +3,9 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links úteis
 [Portugol Studio](http://lite.acad.univali.br/portugol/)
+
 [Git download](https://git-scm.com/downloads)
+
 [Sintaxe Básica Markdow](https://www.markdownguide.org/basic-syntax/)
 
 ## Módulo 01 - Lógica de Programação
