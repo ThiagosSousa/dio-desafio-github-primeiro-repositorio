@@ -8,6 +8,8 @@ Repositório criado para o Desafio de Projeto.
 
 [Sintaxe Básica Markdow](https://www.markdownguide.org/basic-syntax/)
 
+[Lista de Exercícios para praticar a sintaxe de JAVA](https://wiki.python.org.br/ListaDeExercicios)
+
 ## Módulo 01 - Lógica de Programação
 Módulo básico voltado para o aprendizado da lógica de programação, passando por desvios condicionais, estruturas de repetições e matrizes e vetores.
 Foram executados pseudocódigos em Portugol, alguns arquivos constam na pasta do módulo
