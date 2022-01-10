@@ -24,4 +24,5 @@ Por se tratar de um módulo mais teórico, não houve criação de uma pasta par
 Módulo focado em apresentar o Git e GitHub, esclarecendo as principais funcionalidades e comandos do Git.
 Durante o curso foi elaborado um repositório de exemplo, chamado de livro-receitas, por intermédio desse repositório pude colocar em prática os comandos do Git e disponibilizar o repositório no GitHub.
 
-
+## Módulo 03 - Domninando IDEs Java
+Apresentação das IDEs Eclipse e IntelliJ Idea, seus principais atalhos de utilização e a possibilidade de integrar o projeto diratamente com o Git e com o repositório do GitHub.
