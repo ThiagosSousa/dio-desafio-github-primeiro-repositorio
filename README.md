@@ -10,6 +10,8 @@ Repositório criado para o Desafio de Projeto.
 
 [Lista de Exercícios para praticar a sintaxe de JAVA](https://wiki.python.org.br/ListaDeExercicios)
 
+[Principais atalhos IntelliJ Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
+
 ## Módulo 01 - Lógica de Programação
 Módulo básico voltado para o aprendizado da lógica de programação, passando por desvios condicionais, estruturas de repetições e matrizes e vetores.
 Foram executados pseudocódigos em Portugol, alguns arquivos constam na pasta do módulo
