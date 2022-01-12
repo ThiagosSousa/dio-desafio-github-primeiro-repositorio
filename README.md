@@ -25,4 +25,5 @@ Módulo focado em apresentar o Git e GitHub, esclarecendo as principais funciona
 Durante o curso foi elaborado um repositório de exemplo, chamado de livro-receitas, por intermédio desse repositório pude colocar em prática os comandos do Git e disponibilizar o repositório no GitHub.
 
 ## Módulo 03 - Domninando IDEs Java
-Apresentação das IDEs Eclipse e IntelliJ Idea, seus principais atalhos de utilização e a possibilidade de integrar o projeto diratamente com o Git e com o repositório do GitHub.
+Apresentação das IDEs Eclipse e IntelliJ Idea, seus principais atalhos de utilização e a possibilidade de integrar o projeto diretamente com o Git e com o repositório do GitHub.
+Também foi abordado o debug do código e foram demonstrado a possibilidade de realizar a aplicação de alguns plugins, que facilitam a usabilidade do IntelliJ Idea.
