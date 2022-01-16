@@ -27,3 +27,8 @@ Durante o curso foi elaborado um repositório de exemplo, chamado de livro-recei
 ## Módulo 03 - Domninando IDEs Java
 Apresentação das IDEs Eclipse e IntelliJ Idea, seus principais atalhos de utilização e a possibilidade de integrar o projeto diretamente com o Git e com o repositório do GitHub.
 Também foi abordado o debug do código e foram demonstrado a possibilidade de realizar a aplicação de alguns plugins, que facilitam a usabilidade do IntelliJ Idea.
+
+## Módulo 04 - Variáveis, Tipos de Dados e Operadores Matematicos com Java
+Neste módulo foi abordado o passo a passo para criação de variáveis em Java, sendo explicadas as declarações obrigatórias e as opcionais. Também foram explicadas as boas práticas para criação de nomes de variáveis.
+Também foi falado sobre os tipos de dados, sendo a tipificação Estática (forte) que é quando o tipo tem que ser definido na criação, não podendo ser alterado ou Dinâmica (fraca) quando a linguagem verifica qual o tipo, durante a execução do programa.
+Os dados também podem ser classificados por Primitivos (byte, short, int, long, float, double, char), Composto (String, Objetos) ou booleanos (true ou false).
