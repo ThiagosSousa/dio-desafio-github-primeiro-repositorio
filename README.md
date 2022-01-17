@@ -39,3 +39,12 @@ aritmético: +, -, *, /, %;
 atribuição: =, +=, -=, *=, /=, %=;  
 Por fim foi apresentado o casting que é a transformação de uma determanda variável de tipo menos específico para um tipo mais específico, ou vice-versa.  
 Podem ser do tipo Upcast (implícito) ou Downcast (explícito).  
+
+## Módulo 05 - Lógica Condicional e Controle de Fluxos em Java
+Operadores Relacionais: São símbolos que são capazes de realizar comparações entre determinados operandos e retornam um resultado. (==, !=, >, >=, <, <=).  
+Operadores Lógicos: São símbolos especiais quais são capazes de realizar comparações entre operandos lógicos ou expressões e, em seguida, retornar um resultado, podem ser dos tipos:  
+Conjunção (&&);
+Disjunção (||)
+Disjunção Exclusiva (^)
+Negação (!)
+
