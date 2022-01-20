@@ -43,8 +43,16 @@ Podem ser do tipo Upcast (implícito) ou Downcast (explícito).
 ## Módulo 05 - Lógica Condicional e Controle de Fluxos em Java
 Operadores Relacionais: São símbolos que são capazes de realizar comparações entre determinados operandos e retornam um resultado. (==, !=, >, >=, <, <=).  
 Operadores Lógicos: São símbolos especiais quais são capazes de realizar comparações entre operandos lógicos ou expressões e, em seguida, retornar um resultado, podem ser dos tipos:  
-Conjunção (&&);
-Disjunção (||)
-Disjunção Exclusiva (^)
-Negação (!)
+Conjunção (&&);  
+Disjunção (||)  
+Disjunção Exclusiva (^)  
+Negação (!)  
+Controle de Fluxo: São estruturas que tem a capacidade de direcionar o fluxo de execução do código.  
+- Decisão: if, if-else, if-else-if, switch e operador ternário;  
+- Repetição: for, while, do while;  
+- Interrupção: break, continue e return.  
 
+Blocos: É um grupo de 0 ou mais códigos quais trabalham em conjunto para executar uma operação.  
+- Locais: Dentro de métodos;  
+- Estáticos: Dentro de classes;  
+- Instância: Dentro de classes.   
