@@ -55,4 +55,10 @@ Controle de Fluxo: São estruturas que tem a capacidade de direcionar o fluxo de
 Blocos: É um grupo de 0 ou mais códigos quais trabalham em conjunto para executar uma operação.  
 - Locais: Dentro de métodos;  
 - Estáticos: Dentro de classes;  
-- Instância: Dentro de classes.   
+- Instância: Dentro de classes.  
+
+## Módulo 06 - Estruturas de Repetição e Arrays em Java
+Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sekam satisfeitas.  
+Elas podem ser do tipo: while, do-while ou for.  
+Array é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.  
+
