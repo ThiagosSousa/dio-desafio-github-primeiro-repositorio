@@ -62,3 +62,6 @@ Uma estrutura de repetição permite que uma sequência de comandos seja executa
 Elas podem ser do tipo: while, do-while ou for.  
 Array é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.  
 
+## Módulo 07 - Desafios de Código em Java
+Módulo focado no desenvolvimento de códigos para resolução de problemas propostos pela plataforma da DIO, podendo assim colocar em prática o conhecimento adquirido até aqui no Bootcamp.
+
